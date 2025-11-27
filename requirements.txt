@@ -1,0 +1,5 @@
+numpy
+gym>=0.21
+torch
+stable-baselines3[extra]   # optional, needed only for PPO script
+tqdm
